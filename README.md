@@ -121,3 +121,8 @@ A few resources to get you started if this is your first Flutter project :
 
 
 ## DAY 14 - 로그인 로그아웃
+- 12주차 구현 완료
+- [upload_end.html 생성](src/main/resources/templates/upload_end.html)
+- [FileController.java 생성](src/main/java/com/example/demo/controller/FileController.java)
+- [index.html : 프로필 최종 수정](src/main/resources/templates/index.html)
+- 
