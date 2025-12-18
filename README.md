@@ -45,6 +45,8 @@ A few resources to get you started if this is your first Flutter project :
 - 4주차 연습문제
   : 사용자 2명 추가 및 출력 완료 (MYSQL 확장 활용, 컨트롤러 수정, testdb.html 뷰 수정)
   [testdb.html](src/main/resources/templates/testdb.html)
+  <img width="2192" height="1567" alt="image" src="https://github.com/user-attachments/assets/fe8c46ec-2eed-4dc8-a28b-4c3e670e1ca1" />
+
 
   
 
