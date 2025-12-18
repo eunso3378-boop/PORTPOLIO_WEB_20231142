@@ -32,6 +32,10 @@ A few resources to get you started if this is your first Flutter project :
   : 상세 페이지 수정하기 완료
   about_detailed.html & main.js 수정해 되돌아가기 버튼 클릭하면 창 닫기 팝업창 뜸, 확인 클릭 시 상세 페이지 닫아짐
   [about_detailed.html](src/main/resources/templates/about_detailed.html)
+  <img width="2507" height="1352" alt="image" src="https://github.com/user-attachments/assets/e4942bc0-5a61-408f-a81b-1cbad96a50ff" />
+  <img width="1861" height="1000" alt="image" src="https://github.com/user-attachments/assets/ad92c2ee-f9dd-43ae-b2fb-91e0bb460bd9" />
+
+
 
    
  
@@ -51,6 +55,8 @@ A few resources to get you started if this is your first Flutter project :
   : 페이지 리다이렉트 (게시판 글쓰기 후 전체 목록 화면으로 자동 전환, 기존 @RestController 방식을 @Controller 방식으로 수정) 완료
   [BlogController.java](src/main/java/com/example/demo/controller/BlogController.java)
   [BlogRestController.java](src/main/java/com/example/demo/controller/BlogRestController.java)  <-- 전체 주석 처리함
+  <img width="2389" height="1032" alt="image" src="https://github.com/user-attachments/assets/c04c5c1d-c1d2-46b4-98c6-088e859502cc" />
+
 
 
 ## DAY 6 - 6주차 (추석)
@@ -102,8 +108,10 @@ A few resources to get you started if this is your first Flutter project :
 ## DAY 12 - 스프링 시큐리티 & 로그인 로그아웃
 - 10주차:
 - [로그인 화면](src/main/resources/templates/login.html)
+  <img width="2123" height="906" alt="image" src="https://github.com/user-attachments/assets/935e9b5d-ba7d-4b08-838b-05f91d017795" />
 - [SecurityConfig.java 생성](src/main/java/com/example/demo/config/SecurityConfig.java) // 로그인 로그아웃 보안
-- [회원가입 화면](src/main/resources/templates/join_new.html) 
+- [회원가입 화면](src/main/resources/templates/join_new.html)
+- <img width="2234" height="1204" alt="image" src="https://github.com/user-attachments/assets/318fd8ea-788b-4552-9475-a9b233f87d2a" />
 - [회원가입 완료 화면](src/main/resources/templates/join_end.html)
 - 10주차 연습문제
   : 입력값 필터링  pom.xml에 의존성 모듈 추가, AddMemberRequest.java 수정 완료
@@ -126,5 +134,14 @@ A few resources to get you started if this is your first Flutter project :
 - [FileController.java 생성](src/main/java/com/example/demo/controller/FileController.java)
 - [index.html : 프로필 최종 수정](src/main/resources/templates/index.html)
 - <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/03c46d6c-5a78-4f9f-be25-9f155d14d6cb" />
-- 
+- <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/80ce707a-88ce-46a2-85b6-c98c9e08d9d8" />
+- <img width="2524" height="1599" alt="image" src="https://github.com/user-attachments/assets/1406ceda-321f-4f1d-80ce-ca72c7d34f50" />
+- <img width="1883" height="1599" alt="image" src="https://github.com/user-attachments/assets/0b8df534-20aa-42e7-8fe5-8ef7741bd53d" />
+- <img width="2527" height="1599" alt="image" src="https://github.com/user-attachments/assets/62466b95-c197-4c3f-acc0-ba5b284fa800" />
+- <img width="2528" height="1599" alt="image" src="https://github.com/user-attachments/assets/f2d0e556-0a6b-40f7-9de0-2b1201fe6063" />
+
+
+
+
+
 
